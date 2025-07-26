@@ -5,7 +5,7 @@ import styled from 'styled-components';
 
 // API configuration using environment variables
 const API_CONFIG = {
-  BASE_URL: 'https://event-management-nq0b.onrender.com',
+  BASE_URL:  'https://event-management-nq0b.onrender.com',
   ENDPOINTS: {
     EVENTS: '/api/events'
   }
